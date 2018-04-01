@@ -1,3 +1,8 @@
+package src;
+
+/*
+ * Amazon phone interview.
+ */
 import java.util.Stack;
 
 public class Calc {
